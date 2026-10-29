@@ -1,0 +1,62 @@
+
+data,linha_producao,turno,produto,unidades_produzidas,unidades_defeituosas,tipo_falha,horas_parada,motivo_parada
+2026-09-01,Linha A,Manhã,Detergente Neutro,5000,45,Enchimento,0.5,Ajuste de regulagem
+2026-09-01,Linha B,Tarde,Detergente Limão,4800,62,Tampa,0.8,Ajuste de tampadora
+2026-09-01,Linha C,Noite,Detergente Coco,4500,135,Enchimento,2.1,Regulagem do bico
+2026-09-01,Linha D,Noite,Detergente Neutro,4200,126,Qualidade,2.4,Manutenção corretiva
+2026-09-02,Linha A,Noite,Detergente Limão,4700,117,Enchimento,1.9,Ajuste de regulagem
+2026-09-02,Linha B,Manhã,Detergente Neutro,4900,39,Tampa,0.4,Ajuste de tampadora
+2026-09-02,Linha C,Tarde,Detergente Coco,4600,55,Qualidade,0.7,Limpeza técnica
+2026-09-02,Linha D,Manhã,Detergente Limão,4400,44,Enchimento,0.6,Ajuste de regulagem
+2026-09-03,Linha A,Manhã,Detergente Coco,5100,41,Tampa,0.4,Ajuste de tampadora
+2026-09-03,Linha B,Noite,Detergente Neutro,4500,144,Enchimento,2.3,Regulagem do bico
+2026-09-03,Linha C,Manhã,Detergente Limão,4700,42,Qualidade,0.5,Limpeza técnica
+2026-09-03,Linha D,Tarde,Detergente Coco,4300,56,Tampa,0.8,Ajuste de tampadora
+2026-09-04,Linha A,Tarde,Detergente Neutro,5200,52,Enchimento,0.6,Ajuste de regulagem
+2026-09-04,Linha B,Manhã,Detergente Limão,5000,40,Tampa,0.4,Ajuste de tampadora
+2026-09-04,Linha C,Noite,Detergente Coco,4100,139,Qualidade,2.2,Manutenção corretiva
+2026-09-04,Linha D,Noite,Detergente Neutro,4000,120,Enchimento,2.0,Regulagem do bico
+2026-09-05,Linha A,Noite,Detergente Limão,4600,138,Enchimento,2.2,Ajuste de regulagem
+2026-09-05,Linha B,Tarde,Detergente Neutro,4850,58,Tampa,0.7,Ajuste de tampadora
+2026-09-05,Linha C,Manhã,Detergente Coco,4750,38,Qualidade,0.4,Limpeza técnica
+2026-09-05,Linha D,Manhã,Detergente Limão,4450,40,Tampa,0.5,Ajuste de tampadora
+2026-09-06,Linha A,Manhã,Detergente Neutro,5300,42,Enchimento,0.4,Ajuste de regulagem
+2026-09-06,Linha B,Noite,Detergente Limão,4400,132,Tampa,2.0,Ajuste de tampadora
+2026-09-06,Linha C,Tarde,Detergente Coco,4650,51,Qualidade,0.6,Limpeza técnica
+2026-09-06,Linha D,Noite,Detergente Neutro,3900,125,Enchimento,2.3,Regulagem do bico
+2026-09-07,Linha A,Tarde,Detergente Limão,5150,49,Tampa,0.5,Ajuste de tampadora
+2026-09-07,Linha B,Manhã,Detergente Neutro,5050,43,Enchimento,0.4,Ajuste de regulagem
+2026-09-07,Linha C,Noite,Detergente Coco,4000,140,Qualidade,2.5,Manutenção corretiva
+2026-09-07,Linha D,Tarde,Detergente Limão,4350,57,Tampa,0.8,Ajuste de tampadora
+2026-09-08,Linha A,Noite,Detergente Coco,4550,127,Enchimento,2.0,Regulagem do bico
+2026-09-08,Linha B,Tarde,Detergente Limão,4900,55,Tampa,0.6,Ajuste de tampadora
+2026-09-08,Linha C,Manhã,Detergente Neutro,4800,43,Qualidade,0.5,Limpeza técnica
+2026-09-08,Linha D,Manhã,Detergente Coco,4500,41,Enchimento,0.4,Ajuste de regulagem
+2026-09-09,Linha A,Manhã,Detergente Limão,5250,42,Tampa,0.4,Ajuste de tampadora
+2026-09-09,Linha B,Noite,Detergente Neutro,4350,139,Enchimento,2.4,Regulagem do bico
+2026-09-09,Linha C,Tarde,Detergente Coco,4700,53,Qualidade,0.6,Limpeza técnica
+2026-09-09,Linha D,Noite,Detergente Limão,3850,123,Tampa,2.1,Manutenção corretiva
+2026-09-10,Linha A,Tarde,Detergente Neutro,5200,50,Enchimento,0.6,Ajuste de regulagem
+2026-09-10,Linha B,Manhã,Detergente Coco,5100,41,Tampa,0.4,Ajuste de tampadora
+2026-09-10,Linha C,Noite,Detergente Limão,4050,146,Qualidade,2.6,Manutenção corretiva
+2026-09-10,Linha D,Manhã,Detergente Neutro,4550,46,Enchimento,0.5,Ajuste de regulagem
+2026-09-11,Linha A,Noite,Detergente Limão,4650,130,Enchimento,2.0,Regulagem do bico
+2026-09-11,Linha B,Tarde,Detergente Neutro,4950,57,Tampa,0.7,Ajuste de tampadora
+2026-09-11,Linha C,Manhã,Detergente Coco,4850,39,Qualidade,0.4,Limpeza técnica
+2026-09-11,Linha D,Tarde,Detergente Limão,4400,53,Tampa,0.7,Ajuste de tampadora
+2026-09-12,Linha A,Manhã,Detergente Coco,5350,40,Enchimento,0.4,Ajuste de regulagem
+2026-09-12,Linha B,Noite,Detergente Limão,4450,134,Tampa,2.2,Ajuste de tampadora
+2026-09-12,Linha C,Tarde,Detergente Neutro,4750,52,Qualidade,0.6,Limpeza técnica
+2026-09-12,Linha D,Noite,Detergente Coco,3950,126,Enchimento,2.3,Regulagem do bico
+2026-09-13,Linha A,Tarde,Detergente Neutro,5250,51,Tampa,0.6,Ajuste de tampadora
+2026-09-13,Linha B,Manhã,Detergente Limão,5150,42,Enchimento,0.4,Ajuste de regulagem
+2026-09-13,Linha C,Noite,Detergente Coco,3950,142,Qualidade,2.5,Manutenção corretiva
+2026-09-13,Linha D,Tarde,Detergente Limão,4450,54,Tampa,0.7,Ajuste de tampadora
+2026-09-14,Linha A,Noite,Detergente Coco,4600,128,Enchimento,2.1,Regulagem do bico
+2026-09-14,Linha B,Tarde,Detergente Neutro,5000,56,Tampa,0.7,Ajuste de tampadora
+2026-09-14,Linha C,Manhã,Detergente Limão,4900,41,Qualidade,0.4,Limpeza técnica
+2026-09-14,Linha D,Manhã,Detergente Coco,4600,43,Enchimento,0.5,Ajuste de regulagem
+2026-09-15,Linha A,Manhã,Detergente Limão,5400,41,Tampa,0.4,Ajuste de tampadora
+2026-09-15,Linha B,Noite,Detergente Neutro,4500,141,Enchimento,2.4,Regulagem do bico
+2026-09-15,Linha C,Tarde,Detergente Coco,4800,52,Qualidade,0.6,Limpeza técnica
+2026-09-15,Linha D,Noite,Detergente Limão,4000,124,Tampa,2.2,Manutenção corretiva
