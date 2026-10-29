@@ -1,4 +1,8 @@
 
+[![Abrir Dashboard](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://industry-an.streamlit.app/)
+
+**Dashboard online:** https://industry-an.streamlit.app/
+
 # Análise de Produção Industrial — Detecção de Falhas e Anomalias
 
 ## Sobre o projeto
@@ -67,13 +71,6 @@ A detecção de anomalias é exploratória: um registro sinalizado pelo algoritm
 - `dashboard.py` — dashboard interativo e análise de anomalias.
 - `gerar_relatorio.py` — geração do relatório em PDF.
 - `relatorio_producao.pdf` — relatório dos resultados.
-
-## Próximos passos
-
-- Publicar o dashboard para acesso online.
-- Melhorar a apresentação visual dos indicadores.
-- Aprofundar a investigação das causas dos defeitos.
-- Aprimorar a validação dos alertas de anomalia.
 
 ---
 
